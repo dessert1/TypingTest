@@ -10,7 +10,7 @@ to improve it. It was created to have an open-source and native alternative to
 English language files taken from
 https://gist.github.com/deekayen/4148741
 
-## Insallation
+## Installation
 ### Dependencies
 TypingTest is written in C++ with the gtkmm library. The runtime dependencies
 are as follows:
@@ -21,7 +21,7 @@ The build dependencies are:
 
 - A C++11 compiler, GCC and Clang both work.
 - CMake 2.6 or higher.
-- The `glib-compile-resources command`.
+- The `glib-compile-resources` command.
 
 ### Compilation
 TypingTest uses CMake. Navigate into the build directory. TypingTest supports
